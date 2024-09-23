@@ -1,4 +1,4 @@
-# AI Resume Screener
+[document-export-9-23-2024-11_00_42-PM.md](https://github.com/user-attachments/files/17101482/document-export-9-23-2024-11_00_42-PM.md)# AI Resume Screener
 
 This project is a Resume Matching system that uses RAG (Retrieval-Augmented Generation) to process job descriptions and resumes, and then match them based on user queries.
 
@@ -8,6 +8,15 @@ This project is a Resume Matching system that uses RAG (Retrieval-Augmented Gene
 - Match resumes to job descriptions using advanced NLP techniques
 - Provide detailed analysis and ranking of candidates
 - User-friendly web interface
+
+## Project Workflow 
+
+[Uploading # 
+
+
+
+document-export-9-23-2024-11_00_42-PM.md…]()
+
 
 ## Tech Stack
 
