@@ -139,7 +139,7 @@ Here are some improvements which I wish to consider in future for pre-processing
 - Implement an efficient indexing system using inverted indexes to speed up document retrieval [5].
 - Use advanced data structures and algorithms to optimize search and retrieval speed, especially for large datasets [5].
 - Implement a user feedback loop to gather information on the relevance of matches and use this data to improve the system over time [4][5].
-- Implement Better RAG with DSPy framework for prompt augmentation and with chainofThought.
+- Implement Better RAG with DSPy framework for prompt augmentation and with chainofThought prompting : https://dspy-docs.vercel.app/docs/tutorials/rag
 - Implement a Faq section to sort down frequently asked questions. This Q&A will be saved in database. It can reduce the number of calls to LLM and optimize costs.
 - Implement auto-correction and auto-completion for better user experience.
 - Implement knowledge base and Graph RAG for better retrieval. 
