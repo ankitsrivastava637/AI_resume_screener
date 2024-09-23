@@ -96,10 +96,6 @@ streamlit run frontend/streamlit_app.py
 For detailed API documentation, run the backend and visit `http://localhost:8000/docs`
 
 
-## Acknowledgments
-
-- Thanks to the creators and maintainers of FastAPI, Streamlit, LangChain, and FAISS
-- Google's Generative AI team for providing powerful language models
 
 ## Important Note :
 
