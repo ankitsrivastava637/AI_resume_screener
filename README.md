@@ -34,8 +34,6 @@ AI_resume_screener/
 │ └── utils.py
 ├── frontend/
 │ └── streamlit_app.py
-├── faiss_index/
-├── static/
 ├── requirements.txt
 ├── .env
 └── README.md
