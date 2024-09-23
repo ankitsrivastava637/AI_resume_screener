@@ -139,6 +139,12 @@ Here are some improvements which I wish to consider in future for pre-processing
 - Implement an efficient indexing system using inverted indexes to speed up document retrieval [5].
 - Use advanced data structures and algorithms to optimize search and retrieval speed, especially for large datasets [5].
 - Implement a user feedback loop to gather information on the relevance of matches and use this data to improve the system over time [4][5].
+- Implement Better RAG with DSPy framework for prompt augmentation and with chainofThought.
+- Implement a Faq section to sort down frequently asked questions. This Q&A will be saved in database. It can reduce the number of calls to LLM and optimize costs.
+- Implement auto-correction and auto-completion for better user experience.
+- Implement knowledge base and Graph RAG for better retrieval. 
+- Implement sub LLMs for routing LLMs for different types of query from the recruiter. 
+- Perform more comprehensive EDA on resume dataset - for better chunking, retrieval and generation based on our specific dataset.
 
 By implementing these improvements, you can enhance the accuracy, efficiency, and user experience of your resume matching system. Remember to test each improvement individually to measure its impact on your specific use case.
 
