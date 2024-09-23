@@ -110,7 +110,7 @@ async def match_resumes(query: str, vector_store_id: str):
     
     context = "\n\n".join([match['content'] for match in processed_matches])
     
-    model = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0.3, google_api_key=google_api_key)
+    model = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.3, google_api_key=google_api_key)
     
     advanced_prompt = PromptTemplate(
         input_variables=["context", "question"],
