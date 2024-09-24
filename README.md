@@ -144,7 +144,7 @@ Here are some improvements which I wish to consider in future for pre-processing
 - Implement sub LLMs for routing LLMs for different types of query from the recruiter. 
 - Perform more comprehensive EDA on resume dataset - for better chunking, retrieval and generation based on our specific dataset.
 
-By implementing these improvements, you can enhance the accuracy, efficiency, and user experience of your resume matching system. Remember to test each improvement individually to measure its impact on your specific use case.
+By implementing these improvements, you can enhance the accuracy, efficiency, and user experience of your resume matching system. Remember to test each improvement individually to measure its impact on our specific use case.
 
 Citations:
 [1] https://www.rackspace.com/blog/how-chunking-strategies-work-nlp
