@@ -110,9 +110,7 @@ Here are some improvements which I wish to consider in future for pre-processing
 
 1. Pre-processing improvements:
 
-- Implement more advanced HTML tag and URL removal techniques using libraries like BeautifulSoup for better cleaning of web-sourced documents [6].
 - Expand contracted words to their full forms to improve semantic understanding [6].
-- Add emoji and emoticon handling to better process social media or informal text data [6].
 - Implement spell checking to correct common errors in resumes and job descriptions [6].
 - Use Parts of Speech (POS) tagging to provide additional context for words in documents [7][8].
 
